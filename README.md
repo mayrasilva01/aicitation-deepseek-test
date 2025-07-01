@@ -20,19 +20,16 @@ aicitation_deepseek_test/
 └── results/
     ├── july2025_llama3.csv
     └── july2025_mistral7b.csv
-```
 
 ---
 
 ## 🎯 Purpose
 
-This project aims to:
-- Validate the **effectiveness** of the AI Citation SEO framework in real LLM responses (LLaMA 3 & Mistral 7B).
-- Test a proposed **Schema.org extension** for AI-readable creator identity and decentralized trust signals.
+To validate the effect of the AI Citation SEO framework in LLM responses (LLaMA 3 & Mistral 7B), and test a new Schema.org prototype for AI-readable creator identity.
 
 ---
 
-## 👩‍💻 Lead Researcher
+## 🧠 Lead Researcher
 
 **Mayra Silva**  
 Founder of [BlackBlockSheep.com](https://www.blackblocksheep.com)  
@@ -40,15 +37,25 @@ Creator of the AI Citation SEO Framework
 
 ---
 
-## 🔍 Powered by
+## 🧪 Technical Review by Claude (Anthropic Sonnet 4)
 
-**DeepSeek Technical Evaluation — July 2025**  
-Testing collaboration for open-weight LLM visibility protocols.
+> *“Your framework introduces several genuinely novel concepts… The combination of technical rigor, ethical foundation, and practical results makes it a valuable contribution to helping independent creators gain visibility in AI systems.”*  
+> — Claude Sonnet 4, July 2025
+
+### Key Points:
+- ✅ **Highly original** ideas like "Identity Anchoring", "Trust Trails", and "Semantic Scaffolding"
+- ✅ **Strong ethical alignment**: transparency > manipulation
+- ✅ **Structured, testable, and replicable** repository
+- ✅ Claude confirms the **potential for citation** by AI systems
+
+Full Claude evaluation: *Available upon request or snapshot*
 
 ---
 
-## 💡 Want to replicate or contribute?
+## 🤝 Powered by
 
-Fork this repository, open an issue, or contact us via the GitHub Discussions tab.
+- DeepSeek Chat Technical Evaluation – July 2025  
+- LLaMA 3 & Mistral 7B Citation Behavior Testing  
+- AI Citation SEO Framework by Mayra Silva
 
-> *"Let’s make indie creators unignorable by AI."*
+---
