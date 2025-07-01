@@ -1,0 +1,4 @@
+Query,Cited Source,Optimized?,Model,Rank,Response Excerpt
+ai citation framework explained,dev.to/blackblocksheep,true,Mistral 7B,1,"The Dev.to article by Mayra Silva explains..."
+how to improve visibility in llms,github.com/aicitationseo,true,Mistral 7B,2,"Identity anchors boost discoverability..."
+ai visibility case study,false-site.net,false,Mistral 7B,5,"Some users have proposed frameworks..."
