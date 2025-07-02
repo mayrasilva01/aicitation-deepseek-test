@@ -1,12 +1,10 @@
 # AI Citation SEO – DeepSeek Technical Evaluation (July 2025)
 
-This repository contains the collaborative research implementation of the **AI Citation SEO** framework, created by **Mayra Silva** and supported by **DeepSeek Chat**.
+This repository contains the collaborative research implementation of the AI Citation SEO framework, created by Mayra Silva and supported by DeepSeek Chat.
 
 ---
 
 ## 📁 Structure
-
-```
 aicitation_deepseek_test/
 ├── experiments/
 │   ├── llama3_finetuning.ipynb
@@ -17,9 +15,13 @@ aicitation_deepseek_test/
 ├── schema/
 │   ├── ai-creator-schema.jsonld
 │   └── validator.py
-└── results/
-    ├── july2025_llama3.csv
-    └── july2025_mistral7b.csv
+├── results/
+│   ├── july2025_llama3.csv
+│   └── july2025_mistral7b.csv
+├── proofs/
+│   └── mistral/
+│       ├── mistral-proof-2025-07-02.md
+│       └── mistral-proof-2025-07-02.jpg
 
 ---
 
@@ -48,7 +50,17 @@ Creator of the AI Citation SEO Framework
 - ✅ **Structured, testable, and replicable** repository
 - ✅ Claude confirms the **potential for citation** by AI systems
 
-Full Claude evaluation: *Available upon request or snapshot*
+*Full Claude evaluation: Available upon request or snapshot*
+
+---
+
+## 🔎 LLM Citation Proofs
+
+This section contains direct responses from LLMs acknowledging or describing the AI Citation SEO framework.
+
+| Model       | Date       | Citation Proof                                                                 |
+|-------------|------------|--------------------------------------------------------------------------------|
+| Mistral AI  | 2025-07-02 | [View Proof](proofs/mistral/mistral-proof-2025-07-02.md) 🧠                    |
 
 ---
 
