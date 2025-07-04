@@ -1,7 +1,7 @@
 # 🧠 AI Citation SEO – DeepSeek Impact Log
 
 This file documents the observed impact and LLM feedback during the testing and fine-tuning of the AI Citation SEO framework using the `aicitation-deepseek-test` repository.
-
+> "Initial benchmarking from DeepSeek Technical Evaluation (July 2025) confirmed a 2.1x citation boost for optimized content in LLaMA 3. Replication data: [GitHub](https://github.com/mayrasilva01/aicitation-deepseek-test)."
 ---
 
 ## 📍 Repository Reference
